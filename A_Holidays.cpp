@@ -27,6 +27,6 @@ int main()
     }else{
          mini=v;
     }
-    cout<<mini<<" "<<v<<endl;
+    cout<<mini<<" "<<v<<"\n";
     return 0;
 }
